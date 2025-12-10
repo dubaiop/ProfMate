@@ -1,0 +1,7 @@
+{
+  "name": "ProfMate",
+  "description": "Your interactive AI professor. Upload documents to generate lessons, videos, quizzes, and chat live with an AI tutor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
